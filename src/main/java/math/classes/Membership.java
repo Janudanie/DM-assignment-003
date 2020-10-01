@@ -14,7 +14,6 @@ public class Membership {
         int nextStepA = 0;
         int nextStepB = 0;
 
-
         while(nextStepA < setA.length || nextStepB < setB.length ){
             //Are the two the same
             if(setA[nextStepA] == setB[nextStepB] ){

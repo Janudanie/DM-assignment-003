@@ -4,11 +4,11 @@ public class Complement<T> {
 
 
 
-    public boolean isThisAcomplement (int a) {
+    public int[] isThisAcomplement (int[] setA) {
 
 
 
 
-        return false;
+        return setA;
     }
 }
