@@ -21,4 +21,4 @@ we end up with five cases:
 Tip let 2 be the default value
 
 
-## Need to fix the README.md (can be more pretty)
+## Need to fix the README.md (Should be more pretty)
